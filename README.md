@@ -5,7 +5,6 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Andrian</h1>
-<h3 align="center">Im passionate backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrianns&label=Profile%20views&color=0e75b6&style=flat" alt="andrianns" /> </p>
 
